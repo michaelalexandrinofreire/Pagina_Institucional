@@ -156,7 +156,7 @@ export default function In9veLandingPage() {
                   </span>
                 </div>
 
-                {/* BENEFÍCIOS DE STREAMING COM MAIS DESTAQUE NO ULTRA */}
+                {/* DESTAQUE ULTRA */}
                 {plano.apps.length > 0 && (
                   <div
                     className={`mb-6 p-4 rounded-2xl flex flex-wrap gap-3 items-center ${plano.ultra ? "bg-brand/10 border border-brand/20" : "bg-white/5 border border-white/10"}`}
