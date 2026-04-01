@@ -364,7 +364,7 @@ export default function In9veLandingPage() {
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-brand">
+                <a href="/politicas" className="hover:text-brand">
                   Políticas de Privacidade
                 </a>
               </li>
